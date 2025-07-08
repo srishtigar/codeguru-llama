@@ -91,6 +91,6 @@ Answer all the code related questions being asked.
 
 ---
 
-![CodeGuru Chatbot Interface](images/codeguru.png)
+![CodeGuru Chatbot Interface](codeguru.png)
 
 
