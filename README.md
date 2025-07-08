@@ -91,6 +91,6 @@ Answer all the code related questions being asked.
 
 ---
 
-![CodeGuru Chatbot Interface]("C:\Users\Srishti Garg\Downloads\codeguru.png")
+![CodeGuru Chatbot Interface](images/codeguru.png)
 
 
